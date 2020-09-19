@@ -5,6 +5,8 @@ Use this Project to create multiple certificates and send the certificates to th
 
 The Font used is Google Sans
 
+By this project we don't promote making more and more certificates to bait students in joining events! We too will be using this for selected events like hackathons
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 The project consists of 2 python notebooks:
 ----------
@@ -20,19 +22,10 @@ Replace the data.csv in assets folder with the name and e-mail in the format
 
 Name,E-mail
 
-ABC DEF,ABCDEF@gmail.com
+John Doe,John@gmail.com
 
-ABC GHI,ABCGHI@gmail.com 
+Jane Doe,jane@gmail.com 
 
-ABC JKL,ABCJKL@gmail.com
-
-ABC MNO,ABCMNO@gmail.com
-
-ABC OPQ,ABCOPQ@gmail.com
-
-ABC RST,ABCRST@gmail.com
-
-UVW XYZ,UVWXYZ@gmail.com
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
