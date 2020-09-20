@@ -1,4 +1,4 @@
-# DSC-Certificate-Generator
+# Certificate-Generator
 Batch Certificate Generator
 
 Use this Project to create multiple certificates and send the certificates to the participants/winners
